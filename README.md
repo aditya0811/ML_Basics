@@ -13,7 +13,7 @@
                             f)RandomForestClassifier- [[63,  5],[ 3, 29]]
                             g)SVM-[[66,  2],[ 8, 24]]
    
-   2)Salary_Data-We have 2 columns here(YearsExperience,Salary) and 31 rows , We need to predict salary of the customer using Linear                        regression problem.
+   2)Salary_Data-We have 2 columns here(YearsExperience,Salary) and 31 rows , We need to predict salary of the customer using Linear<br>                     regression problem.
    
    3)50_Startups-We have here 5 columns(R&D Spend,Administration,Marketing Spend,State,Profit) , 51 rows and need to predict Profit for                    each startup using following regression models:-
                  a)Linear Regression
